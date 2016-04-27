@@ -1,10 +1,10 @@
 # Suggestion box for PostCSS plugins
 
-This repository is meant only for reporting in suggestions of postcss plugins through the [issue tracker](/issues). Before you submit a suggestion, be sure to follow instructions and guidelines down below. Following these guidelines helps to communicate that you respect the time of the developers managing this suggestion box.
+This repository is meant only for reporting in suggestions for postcss plugins through the [issue tracker](https://github.com/postcss/postcss-plugin-suggestion-box/issues). Before you submit a suggestion, be sure to follow instructions and guidelines down below. Following these guidelines helps to communicate that you respect the time of the us managing this suggestion box.
 
 ## Submitting Suggestion
 
-There are more than over 200 registered PostCSS plugins so there is a strong possiblity that the plugin you have in mind is already [created](https://github.com/postcss/postcss/blob/master/docs/plugins.md). If it dosen't exists, feel free to submit a idea for a postcss plugin you have in mind and what the goal behind it is.
+There are more than over 200 registered PostCSS plugins so there is a strong possiblity that the plugin you have in mind is already [created](https://github.com/postcss/postcss/blob/master/docs/plugins.md). If it dosen't exists, feel free to submit a idea for a postcss plugin you have in mind.
 
 ## Using the issue tracker
 
